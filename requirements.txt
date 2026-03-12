@@ -1,0 +1,14 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+qdrant-client>=1.12.0
+openai>=1.54.0
+transformers>=4.46.0
+torch>=2.6.0
+torchvision>=0.21.0
+Pillow>=10.4.0
+PyPDF2>=3.0.1
+python-multipart>=0.0.12
+pydantic>=2.9.0
+numpy>=1.26.4
+sentence-transformers>=3.2.0
+python-dotenv>=1.0.1
